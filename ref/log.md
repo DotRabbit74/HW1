@@ -16,3 +16,6 @@
 12. 寫一個Todo.md 內容為建構一個線性回歸model所需要的步驟
 13. 請依照我和你目前為止的對話 寫一份報告儲存至report.md
 14. 將我所使用過的prompt整理至/ref/log.md
+15. 幫我將HW1的新內容更新至github的HW1儲存庫裡
+16. 我如何在streamlit上開啟我剛剛上傳至github的專案
+17. 更新一下report.md log.md 將此更新反應至github
