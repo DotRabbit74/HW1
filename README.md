@@ -52,5 +52,5 @@ HW1/
 ├── requirements.txt    # Python 依賴套件列表
 ├── .gitignore          # Git 忽略檔案設定
 ├── README.md           # 專案說明文件
-└── step.py             # 建構流程計畫書 (CRISP-DM)
+└── step.md             # 建構流程計畫書 (CRISP-DM)
 ```
